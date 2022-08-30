@@ -7,7 +7,7 @@ Seu segundo número foi ${numeroUsuario2}
 
 console.log(
 `O primeiro número é maior que o segundo? ${numeroUsuario1 > numeroUsuario2}
-O primeiro número é igual que o segundo? ${numeroUsuario1 == numeroUsuario2}
+O primeiro número é igual que o segundo? ${numeroUsuario1 === numeroUsuario2}
 O primeiro número é divisível pelo segundo? ${(numeroUsuario1 % numeroUsuario2) === 0}
 O segundo numero é divisível pelo primeiro? ${(numeroUsuario2 % numeroUsuario1) === 0}
 

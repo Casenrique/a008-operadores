@@ -1,7 +1,7 @@
 const operacaoA = 5 > 20 && 5 > 2;
 console.log(operacaoA);
 
-const operacaoB = 5 === 5 && 5 === "5";
+const operacaoB = 5 === 5 || 5 === "5";
 console.log(operacaoB);
 
 const operacaoC = 20 > 50;
